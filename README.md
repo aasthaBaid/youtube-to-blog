@@ -31,7 +31,7 @@ Follow these steps to set up and run the project on your local machine.
 
 First, ensure you have the following files in the same project directory:
 
--   `youtube_to_blog.py` (The main Python script)
+-   `yt_blog.py` (The main Python script)
 -   `requirements.txt`
 
 ### 2. Create a Virtual Environment (Recommended)
